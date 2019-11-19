@@ -1,0 +1,11 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+	  <UseNETCoreGenerator>true</UseNETCoreGenerator>
+	  <StartupObject>NameLengthVS2017.Program</StartupObject>
+    <RuntimeIdentifier>ubuntu-x64</RuntimeIdentifier>
+  </PropertyGroup>
+
+</Project>
